@@ -1,0 +1,7 @@
+body {
+  background-color: powderblue;
+  h1 {
+    border: 100px solid powderblue;
+    padding: 30px;
+}
+}
